@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FigmaToUI/static/css/main.4248a686.css",
+    "main.js": "/FigmaToUI/static/js/main.89603f19.js",
+    "static/js/453.f296c8c6.chunk.js": "/FigmaToUI/static/js/453.f296c8c6.chunk.js",
+    "index.html": "/FigmaToUI/index.html",
+    "main.4248a686.css.map": "/FigmaToUI/static/css/main.4248a686.css.map",
+    "main.89603f19.js.map": "/FigmaToUI/static/js/main.89603f19.js.map",
+    "453.f296c8c6.chunk.js.map": "/FigmaToUI/static/js/453.f296c8c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4248a686.css",
+    "static/js/main.89603f19.js"
+  ]
+}
