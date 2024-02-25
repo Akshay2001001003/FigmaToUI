@@ -1,0 +1,42 @@
+.sgnup {
+  display: flex;
+  align-items: center;
+  width: 1024px;
+  /* justify-content: center; */
+  height: 171px;
+  margin-left: 40px;
+}
+.btn2 {
+  text-decoration: none;
+  border: 1px #1b88f4;
+  outline: none;
+  width: 57px;
+  height: 20px;
+  background-color: #1b88f4;
+  color: white;
+  width: 97px;
+  height: 52px;
+  top: 2309px;
+  left: 1235px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+.btn2:hover {
+  transform: scale(1.04);
+}
+.txt {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #5c6874;
+  width: 398px;
+  height: 88px;
+}
+.buttonn {
+  display: flex;
+  justify-content: flex-end;
+  width: 626px;
+}

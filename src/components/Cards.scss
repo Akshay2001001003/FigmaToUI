@@ -1,0 +1,101 @@
+.cs {
+  border: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 255px;
+  border-radius: 12px;
+  min-width: 1024px;
+}
+.cs:hover {
+  border: 2px solid blueviolet;
+}
+.lable {
+  margin-left: -7px;
+  margin-top: -133px;
+  padding-left: 6px;
+  color: #ffff;
+  background-color: #ff7724;
+  gap: 3px;
+  display: flex;
+  width: 136px;
+  height: 34px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  align-items: center;
+}
+.cr {
+  color: #4b5665;
+  border: 1px #e1e4e6;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+}
+.middle {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 12px;
+  //   align-items: center;
+}
+.Right {
+  width: 50%;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.bld {
+  font-weight: bold;
+}
+.upper {
+  background-image: url("../assets/Rectangle.png");
+  width: 135px;
+  height: 118px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #074786;
+  font-family: inter;
+}
+.btn {
+  text-decoration: none;
+  outline: none;
+  border: none;
+  background-color: #1b88f4;
+  color: white;
+  width: 232px;
+  margin-top: 40px;
+  height: 48px;
+  border-radius: 12px;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.pnt {
+  background-color: white;
+  color: #1b88f4;
+}
+.hg {
+  background-color: #fff4ed;
+  width: 505px;
+  height: 116px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding-left: 10px;
+  border-radius: 12px;
+  height: 116px;
+}
+.pntr {
+  display: flex;
+  align-items: center;
+}

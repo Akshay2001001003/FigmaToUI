@@ -1,0 +1,71 @@
+.courses {
+  width: 333px;
+  height: 425px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.courses:hover {
+  border: 2px solid rgb(113, 113, 216);
+}
+.discount {
+  display: flex;
+  width: 80%;
+  margin-top: 60px;
+  padding: 3px;
+  gap: 3px;
+}
+.ds {
+  background-color: #f2f4f7;
+  color: #074786;
+  border-radius: 8px;
+
+  height: 20px;
+}
+.ttl {
+  font-weight: 400;
+  font-family: inter;
+  font-size: 16px;
+  width: 80%;
+  color: #626e79;
+  word-spacing: 3px;
+}
+.price {
+  display: flex;
+  align-items: flex-end;
+  gap: 13px;
+  width: 80%;
+}
+.btn1 {
+  width: 80%;
+}
+.discountprice {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  color: #5c6874;
+  text-align: left;
+}
+.actual {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #9fa9b3;
+}
+.offer {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ef4c5d;
+}
